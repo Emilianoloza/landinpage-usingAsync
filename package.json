@@ -1,0 +1,19 @@
+{
+  "name": "landinpage-usingasync",
+  "version": "1.0.0",
+  "description": "This is the repository of a landing page where to create it I will use asynchronous functions in addition to fetch in javascript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Emilianoloza/landinpage-usingAsync.git"
+  },
+  "author": "Emiliano Loza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Emilianoloza/landinpage-usingAsync/issues"
+  },
+  "homepage": "https://github.com/Emilianoloza/landinpage-usingAsync#readme"
+}
